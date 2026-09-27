@@ -26,12 +26,4 @@ python "app (23).py"
 
 (Note: You can rename the file to app.py for easier deployment).
 Open in Browser
-Navigate to http://127.0.0.1:5000.
-
-
-
-Add the vercel.json file provided in this repository to your root folder.
-Connect to Vercel:
-Push your code to your GitHub repository.
-Log in to Vercel, click Add New... > Project, and import your GitHub repository.
-Vercel will automatically detect the configuration and deploy your Flask app as a serverless function.
+Navigate to http://127.0.0.1:5000
