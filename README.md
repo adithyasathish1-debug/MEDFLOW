@@ -27,12 +27,7 @@ python "app (23).py"
 (Note: You can rename the file to app.py for easier deployment).
 Open in Browser
 Navigate to http://127.0.0.1:5000.
-Deploying to Vercel via GitHub
-Vercel supports Python Serverless Functions through its WSGI/ASGI adapters. To host this single-file application on Vercel:
-Prepare your GitHub Repository:
-Rename your main application file to index.py or keep it as app (23).py and reference it appropriately. (For standard Vercel Python templates, placing the WSGI app inside an api/ directory or root configuration works seamlessly).
-Ensure you have a requirements.txt file containing:
-Flask==3.0.2
+
 
 
 Add the vercel.json file provided in this repository to your root folder.
